@@ -1,7 +1,7 @@
 {
   "name": "angular-css-injector",
   "main": "angular-css-injector.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "homepage": "https://github.com/kleiinnn/angular-css-injector",
   "authors": [
     "Markus Klein <m@mklein.co.at>"
